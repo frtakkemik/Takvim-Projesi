@@ -21,8 +21,13 @@ yazarak projeyi açabilirsiniz.
 
 Linux için:
 xampp kullanıyorsanız;
+
 cd /opt/lampp/htdocs
+
 git clone frtakkemik/blalba
+
 sudo su root
+
 chmod +x *
+
 ./manager-linux.64x
