@@ -40,9 +40,9 @@ CREATE TABLE `kullanicilar` (
 --
 
 INSERT INTO `kullanicilar` (`id`, `kullanici_adi`, `email`, `parola`, `kayit_tarihi`) VALUES
-(18, 'firat@gmail.com', 'firat@gmail.com', 'bc7316929fe1545bf0b98d114ee3ecb8', '2023-06-10 19:02:33'),
-(19, 'fırattttt', 'firatttt@gmail.com', 'b59c67bf196a4758191e42f76670ceba', '2023-06-11 15:30:31'),
-(21, 'ugurbaba', 'ugur@gmail.com', '087c8abfaee44ebbf0c2871976a2ab18', '2023-06-11 19:20:10');
+(18, 'zzzzzz, 'zzzzzz@gmail.com', 'bc7316929fe1545bf0b98d114ee3ecb8', '2023-06-10 19:02:33'),
+(19, 'yyyyy', 'yyyyy@gmail.com', 'b59c67bf196a4758191e42f76670ceba', '2023-06-11 15:30:31'),
+(21, 'xxxxxx', 'xxxx@gmail.com', '087c8abfaee44ebbf0c2871976a2ab18', '2023-06-11 19:20:10');
 
 -- --------------------------------------------------------
 
