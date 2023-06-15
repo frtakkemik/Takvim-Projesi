@@ -24,7 +24,7 @@ xampp kullanıyorsanız;
 
 cd /opt/lampp/htdocs
 
-git clone frtakkemik/blalba
+git clone https://github.com/frtakkemik/Takvim-Projesi.git
 
 sudo su root
 
