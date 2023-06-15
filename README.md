@@ -22,6 +22,8 @@ yazarak projeyi açabilirsiniz.
 Linux için:
 xampp kullanıyorsanız;
 
+sudo service apache2 stop
+
 cd /opt/lampp/htdocs
 
 git clone https://github.com/frtakkemik/Takvim-Projesi.git
