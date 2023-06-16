@@ -32,4 +32,4 @@ sudo su root
 
 chmod +x *
 
-./manager-linux.64x
+./manager-linux-x64.run
