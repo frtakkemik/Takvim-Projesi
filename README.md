@@ -12,7 +12,7 @@ Kullanıcı sisteme kayıt olduğunda parolaları hashlanmiş şekilde mysq veri
 Her kullanıcının kendine ait id si bulunduğundan hiçbir kullanıcı ve olayları birbiri ile karışmayacak ve
 başka biri direkt olarak takvim sistemine gitmeye çalıştığında engellenip login sayfasına atılacaktır.
 
-Bu projede Olaylar ve Kullanıcılar olarak 2 tane mysq tablosu kullanılmıştır.
+Bu projede Olaylar ve Kullanıcılar olarak 2 tane MySQL tablosu kullanılmıştır.
 Bu proje PHP,javascrip,jqery,ajax kullanılarak yapılmıştır.
 
 Bu projeyi çalıştırıp kullanabilmeniz için kaynak dosyalarını appserv,xampp vb. servis uygulamalarının gerekli klasörüne 
